@@ -37,7 +37,7 @@
 export default {
     data() {
         return {
-            BASE_API: 'http://localhost:9001', // 接口API地址
+            BASE_API: 'http://120.55.81.130:9001', // 接口API地址
             importBtnDisabled: false, // 按钮是否禁用,
             loading: false
         }

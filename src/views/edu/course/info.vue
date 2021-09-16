@@ -99,7 +99,7 @@ export default {
   name: "info",
   data() {
     return {
-      BASE_API: 'http://localhost:9001',
+      BASE_API: 'http://120.55.81.130:9001',
       active: 0,
       courseId: '',
       saveBtnDisabled: false,

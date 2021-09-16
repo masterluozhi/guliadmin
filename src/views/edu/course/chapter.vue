@@ -113,7 +113,7 @@ import video from "@/api/video/video";
 export default {
   data() {
     return {
-      BASE_API: 'http://localhost:9001',
+      BASE_API: 'http://120.55.81.130:9001',
       saveBtnDisabled: false,
       courseId: '',//课程id
       chapterVideoList: [],

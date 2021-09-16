@@ -78,7 +78,7 @@ export default {
       //上传弹框组件是否显示
       imagecropperShow:false,
       imagecropperKey:0,//上传组件key值
-      BASE_API:'http://localhost:9001', //获取dev.env.js里面地址
+      BASE_API:'http://120.55.81.130:9001', //获取dev.env.js里面地址
       saveBtnDisabled:false  // 保存按钮是否禁用,
     }
   },
